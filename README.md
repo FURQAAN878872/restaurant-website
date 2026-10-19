@@ -1,16 +1,58 @@
-# React + Vite
+# 🍽️ Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive restaurant website built using **React.js** and **Material UI (MUI)**, featuring a clean user interface and reusable React components.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+**[Live Demo](https://restaurant-website-zeta-sepia.vercel.app/)**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the Oxlint configuration
+- **React.js** – Building interactive user interfaces
+- **Material UI (MUI)** – UI components and styling
+- **JavaScript (ES6+)** – Application logic
+- **CSS** – Custom styling
+- **React Router** – Client-side navigation
 
+## ✨ Features
+
+- Responsive restaurant website UI
+- Reusable React components
+- Material UI components for a consistent design
+- Navigation between pages
+- Restaurant-themed layout and content
+
+## 💻 Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone YOUR_GITHUB_REPOSITORY_URL
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd restaurant-website
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL shown in your terminal.
+
+## 👨‍💻 Author
+
+**Furqaan Khan**
+
+- GitHub: [FURQAAN878872](https://github.com/FURQAAN878872)
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
